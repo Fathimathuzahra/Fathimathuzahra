@@ -19,10 +19,11 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-  I'm <b>Fathimathu zahra</b><br><br>
-  - 🔭 I’m a post graduate student <br>
-  - 📚 Currently pursuing MCA<br>
-  - ⚡ In my free time, I explore Data Science and Data Analytics
+  Hello!, I'm <b>Fathimathu zahra</b><br><br>
+  
+   I'm an MCA (Master of Computer Applications) student with a strong passion for Data Science. My journey in this field is driven by my fascination with how data can unlock insights, solve complex problems, and drive smarter decision-making. With a solid foundation in Python, Mathematics, and Statistics, I’m excited to apply these skills to analyze data, build machine learning models, and uncover valuable patterns.
+
+
 </p> 
 
 
