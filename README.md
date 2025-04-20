@@ -26,7 +26,18 @@
 
 </p> 
 
+## 🔍 What I Do
 
+<p> align="left">
+  I focus on transforming raw data into meaningful information through a combination of:
+
+<b>*</b>Data Analysis & Visualization: Leveraging Python’s powerful libraries to analyze, clean, and visualize complex datasets.
+
+<b>*</b>Mathematical & Statistical Modeling: Applying mathematical principles and statistical methods to draw conclusions and make predictions.
+
+<b>*</b>Machine Learning: Building algorithms and models that enable machines to learn from data and make intelligent predictions
+
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimathuzahra&label=Profile%20views&color=0e75b6&style=flat" alt="fathimathuzahra" /> </p>
 
 
