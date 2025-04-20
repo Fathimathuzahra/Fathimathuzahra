@@ -25,7 +25,7 @@
 
 
 </p> 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimathuzahra&label=Profile%20views&color=0e75b6&style=flat" alt="fathimathuzahra" /> </p>
 ## 🔍 What I Do
 
 <p align="left"><b>  I focus on transforming raw data into meaningful information through a combination of:
@@ -37,11 +37,10 @@
 <b>*</b>Machine Learning: Building algorithms and models that enable machines to learn from data and make intelligent predictions
 </b>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimathuzahra&label=Profile%20views&color=0e75b6&style=flat" alt="fathimathuzahra" /> </p>
 
 <p alin="left">
 <b>
-  <b>🛠 Skills & Expertise</b>
+  <b>🛠 Skills & Expertise<br><br></b>
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Mathematics & Statistics: Probability, Linear Algebra, Calculus, Hypothesis Testing, Regression Analysis
