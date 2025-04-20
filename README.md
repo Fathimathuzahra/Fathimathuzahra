@@ -51,7 +51,6 @@
 
 <b>*</b>Databases: SQL, MySQL
 
-<b>*</b>Tools & Technologies: Jupyter Notebooks, Git
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
