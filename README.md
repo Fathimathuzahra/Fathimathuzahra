@@ -40,18 +40,18 @@
 
 <p alin="left">
 <b>
-  <b>🛠 Skills & Expertise<br><br></b>
-Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+  <b><h2>🛠 Skills & Expertise</h2><br><br></b>
+<h2>*</h2>Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Mathematics & Statistics: Probability, Linear Algebra, Calculus, Hypothesis Testing, Regression Analysis
+<h2>*</h2>Mathematics & Statistics: Probability, Linear Algebra, Calculus, Hypothesis Testing, Regression Analysis
 
-Machine Learning: Supervised and Unsupervised Learning, Classification, Clustering, Dimensionality Reduction
+<h2>*</h2>Machine Learning: Supervised and Unsupervised Learning, Classification, Clustering, Dimensionality Reduction
 
-Data Visualization: Matplotlib, Seaborn
+<h2>*</h2>Data Visualization: Matplotlib, Seaborn
 
-Databases: SQL, MySQL
+<h2>*</h2>Databases: SQL, MySQL
 
-Tools & Technologies: Jupyter Notebooks, Git
+<h2>*</h2>Tools & Technologies: Jupyter Notebooks, Git
 </b></p>
 
 <h3 align="left">Languages and Tools:</h3>
