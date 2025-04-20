@@ -1,5 +1,4 @@
-<h1 align="center">Hi ![image](https://github.com/user-attachments/assets/2c3833da-5519-4240-8c39-11e6cc5e1430)
-, I'm Fathimathu Zahra</h1>
+<h1 align="center">Hi, I'm Fathimathu Zahra</h1>
 
 
 <div align="center">
