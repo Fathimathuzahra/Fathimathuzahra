@@ -26,8 +26,7 @@
 
 </p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimathuzahra&label=Profile%20views&color=0e75b6&style=flat" alt="fathimathuzahra" /> </p>
-## 🔍 What I Do
-
+<h2>🔍 What I Do</h2>
 
 <p align="left"><b>  I focus on transforming raw data into meaningful information through a combination of:
 
