@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fathimathu Zahra</h1>
+<h1 align="center">Hy, I'm Fathimathu Zahra</h1>
 
 
 <div align="center">
