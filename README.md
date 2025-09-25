@@ -14,6 +14,9 @@
   <a href="https://www.hackerrank.com/profile/fz322953">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo"/>
   </a>
+    <a href="https://www.kaggle.com/f17Zahra">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Kaggle logo"/>
+  </a>
 </div>
 
 ## 👩‍💻 About Me
