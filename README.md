@@ -12,7 +12,7 @@
 <p>💻 Passionate about <b>Data Science, Web Development, and Machine Learning</b></p>
 <p>🌱 Currently learning <b>Advanced Django and AI-driven Web Applications</b></p>
 <p>⚡ Fun fact: I love turning complex problems into simple, beautiful solutions</p>
-<p>📫 How to reach me: <a href="vp.fathimathuzahra@gmail.com"></a></p>
+<p>📫 How to reach me: <b>[Email](vp.fathimathuzahra@gmail.com)></b></p>
 
 ---
 
