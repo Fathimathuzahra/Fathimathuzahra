@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fathimathu Zahra</h1>
 <h3 align="center">Aspiring Software Engineer | Data Science & Web Development Enthusiast</h3>
 
+
+<div align="center">
+  <img src="[https://via.placeholder.com/800x200/0D1117/00D4FF?text=Welcome+To+My+GitHub+Profile](https://in.pinterest.com/pin/583990276722873108/)" alt="Banner" width="100%" />
+  <!-- Replace the above URL with your actual banner image URL -->
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3E0&center=true&vCenter=true&width=435&lines=Python+%7C+Django+%7C+Machine+Learning;MCA+Student+@+AWH+Engineering+College;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 </p>
