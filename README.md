@@ -68,6 +68,25 @@ I'm a passionate MCA student at AWH Engineering College with a strong interest i
 
 ---
 
+---
+### 🔬 Data Science & Machine Learning
+- **[FBI Crime Time Series Forecasting](https://github.com/Fathimathuzahra/fbi-crime-forecasting)**  
+  Time series analysis and forecasting of FBI crime data using ARIMA/SARIMA models to predict crime patterns and assist law enforcement in resource allocation.
+
+- **[Integrated Retail Analytics for Store Optimization](https://github.com/Fathimathuzahra/retail-analytics)**  
+  Comprehensive retail analytics project using machine learning (Random Forest) for store segmentation, sales prediction, and performance optimization with actionable business insights.
+
+### 🎓 Academic Projects
+- **[College Canteen Token Ordering System](https://github.com/Fathimathuzahra/Academy_MINI_PROJECT)**  
+  Full-stack Django web application for streamlining college canteen operations with real-time token management and order processing.
+## 📂 Project Portfolio
+
+All my projects are available at:  
+**[https://github.com/Fathimathuzahra/My-portfolio](https://github.com/Fathimathuzahra/My-portfolio)**
+
+---
+
+
 ## 🛠 Technical Stack
 
 ### Programming Languages
@@ -133,20 +152,6 @@ I'm a passionate MCA student at AWH Engineering College with a strong interest i
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathimathuzahra&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
----
-### 🔬 Data Science & Machine Learning
-- **[FBI Crime Time Series Forecasting](https://github.com/Fathimathuzahra/fbi-crime-forecasting)**  
-  Time series analysis and forecasting of FBI crime data using ARIMA/SARIMA models to predict crime patterns and assist law enforcement in resource allocation.
-
-### 🎓 Academic Projects
-- **[College Canteen Token Ordering System](https://github.com/Fathimathuzahra/Academy_MINI_PROJECT)**  
-  Full-stack Django web application for streamlining college canteen operations with real-time token management and order processing.
-## 📂 Project Portfolio
-
-All my projects are available at:  
-**[https://github.com/Fathimathuzahra/My-portfolio](https://github.com/Fathimathuzahra/My-portfolio)**
-
----
 
 ## 💡 Philosophy
 
