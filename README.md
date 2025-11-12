@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://in.pinterest.com/pin/583990276722873108/" alt="Banner" width="100%" />
+  <img src="[https://in.pinterest.com/pin/583990276722873108/](https://github.com/Fathimathuzahra/Fathimathuzahra/blob/main/144d756d814f189bb5147c37b1d80e4c.jpg)" alt="Banner" width="100%" />
   <!-- Replace the above URL with your actual banner image URL -->
 </div>
 
