@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="[https://via.placeholder.com/800x200/0D1117/00D4FF?text=Welcome+To+My+GitHub+Profile](https://in.pinterest.com/pin/583990276722873108/)" alt="Banner" width="100%" />
+  <img src="https://in.pinterest.com/pin/583990276722873108/" alt="Banner" width="100%" />
   <!-- Replace the above URL with your actual banner image URL -->
 </div>
 
