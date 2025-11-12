@@ -11,8 +11,9 @@
 <p>🎓 Pursuing <b>Master of Computer Applications (MCA)</b> at <b>AWH Engineering College</b></p>
 <p>💻 Passionate about <b>Data Science, Web Development, and Machine Learning</b></p>
 <p>🌱 Currently learning <b>Advanced Django and AI-driven Web Applications</b></p>
+<p>📚 Active member of <b>µLearn Foundation</b> community</p>
 <p>⚡ Fun fact: I love turning complex problems into simple, beautiful solutions</p>
-<p>📫 How to reach me: <b>[Email](vp.fathimathuzahra@gmail.com)</b></p>
+<p>📫 How to reach me: <b>vp.fathimathuzahra@gmail.com</b></p>
 
 ---
 
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ### 🌐 Web Development
@@ -39,6 +41,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -67,13 +70,25 @@
 ## 🏆 Projects & Achievements
 
 ### 🔥 Featured Projects
-- **College canteen token ordering system** - Full-stack Django web application
+- **College Canteen Token Ordering System** - Full-stack Django web application with real-time ordering and payment integration
+- **Data Analysis Dashboard** - Interactive dashboard for business analytics using Python and Power BI
+- **E-commerce Platform** - Django-based online shopping platform with user authentication and payment gateway
 
-
-### 🎯 Certifications
+### 🎯 Certifications & Achievements
 - Python for Data Science Certification
 - Web Development Bootcamp Completion
 - Machine Learning Fundamentals
+- Active µLearn Contributor and Community Member
+
+---
+
+## 🌟 Community Involvement
+
+<p align="center">
+  <a href="https://app.mulearn.org/profile/fathimathuzahra@mulearn" target="_blank">
+    <img src="https://img.shields.io/badge/µLearn-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white" alt="µLearn Profile" />
+  </a>
+</p>
 
 ---
 
@@ -82,6 +97,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fathimathuzahravp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://app.mulearn.org/profile/fathimathuzahra@mulearn" target="_blank">
+    <img src="https://img.shields.io/badge/µLearn-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white" />
   </a>
   <a href="mailto:vp.fathimathuzahra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
