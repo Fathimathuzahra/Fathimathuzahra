@@ -12,7 +12,7 @@
 <p>💻 Passionate about <b>Data Science, Web Development, and Machine Learning</b></p>
 <p>🌱 Currently learning <b>Advanced Django and AI-driven Web Applications</b></p>
 <p>⚡ Fun fact: I love turning complex problems into simple, beautiful solutions</p>
-<p>📫 How to reach me: <b>fathimathuzahraofficial@gmail.com</b></p>
+<p>📫 How to reach me: <a>vp.fathimathuzahra@gmail.com</a></p>
 
 ---
 
@@ -67,9 +67,8 @@
 ## 🏆 Projects & Achievements
 
 ### 🔥 Featured Projects
-- **Netflix Clone** - Full-stack Django web application
-- **Data Analysis Dashboard** - Python & Power BI integration
-- **E-commerce Platform** - Django REST Framework API
+- **College canteen token ordering system** - Full-stack Django web application
+
 
 ### 🎯 Certifications
 - Python for Data Science Certification
@@ -84,7 +83,7 @@
   <a href="https://www.linkedin.com/in/fathimathuzahravp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:fathimathuzahraofficial@gmail.com">
+  <a href="mailto:vp.fathimathuzahra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Fathimathuzahra">
