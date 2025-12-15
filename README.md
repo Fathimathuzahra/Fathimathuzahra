@@ -82,7 +82,7 @@ I'm a passionate MCA student at AWH Engineering College with a strong interest i
 ## 📂 Project Portfolio
 
 All my projects are available at:  
-**[https://github.com/Fathimathuzahra/My-portfolio](https://github.com/Fathimathuzahra/My-portfolio)**
+**[https://github.com/Fathimathuzahra/My-portfolio](https://github.com/Fathimathuzahra/zahra-portfolio)**
 
 ---
 
