@@ -212,7 +212,7 @@ Tech Stack:
 - LinkedIn: https://linkedin.com/in/fathimathuzahravp
 - GitHub: https://github.com/Fathimathuzahra
 - Kaggle: https://kaggle.com/f17zahra
-- Portfolio: https://github.com/Fathimathuzahra/zahra-portfolio
+- Portfolio: https://zahra-potfolio.netlify.app
 - Email: vp.fathimathuzahra@gmail.com
 
 ---
