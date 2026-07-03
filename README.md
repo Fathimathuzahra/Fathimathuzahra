@@ -50,7 +50,7 @@ AI & Data Science Enthusiast | Software Developer | Full Stack Developer | MCA G
 # 💼 Professional Experience
 
 ### Software Development Intern
-**Acronite Technologies Pvt Ltd**
+**Acrobite Technologies Pvt Ltd**
 
 - Developed responsive web applications using HTML, CSS, JavaScript, Node.js and Express.js.
 - Worked on backend API integration and database management.
