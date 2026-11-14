@@ -1,16 +1,15 @@
-# Hi, I'm Fathimathu Zahra 👋
+# Hello, I'm Fathimathu Zahra 👋
 
 ### Software Developer | Full-Stack Developer | Data Science & AI Enthusiast
 
-I enjoy building practical software applications, developing data-driven solutions, and exploring how technology can solve real-world problems.
+I am passionate about developing user-friendly applications, building intelligent systems, and transforming data into meaningful insights. I enjoy exploring new technologies and solving real-world problems through software development and data-driven solutions.
 
-- 💻 Interested in Software Development, Full-Stack Development, AI and Data Science.
+- 💻 Interested in Full-Stack Development, Software Engineering and AI.
 - 🐍 Working with Python, Django, React, JavaScript and SQL.
-- 🤖 Exploring machine learning, intelligent automation and AI-powered applications.
-- 📊 Interested in data analysis, predictive modelling and visualization.
-- 🌱 Always learning, building and improving through hands-on projects.
-- 📍 Based in Kannur, Kerala, India.
-- 💼 Open to suitable opportunities and collaborations.
+- 🤖 Exploring Machine Learning, AI-powered applications and automation.
+- 📊 Interested in Data Science, Analytics and Predictive Modelling.
+- 🌱 Continuously learning and building practical projects.
+- 📍 Kannur, Kerala, India.
 
 📧 **Email:** vp.fathimathuzahra@gmail.com
 
@@ -18,61 +17,51 @@ I enjoy building practical software applications, developing data-driven solutio
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://fathimathuzahra.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/fathimathuzahravp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Fathimathuzahra" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://kaggle.com/f17zahra" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/fz322953" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<p align="center">
+<a href="https://fathimathuzahra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/fathimathuzahravp"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Fathimathuzahra"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://kaggle.com/f17zahra"><img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/fz322953"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**Programming Languages**
 
-### Web & Backend Development
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Data Science & Machine Learning
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data_Analysis-2E8B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistics-5C6BC0?style=for-the-badge" />
-</p>
+**Web Development**
 
-### Databases, Analytics & Tools
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
+
+**Data Science & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -83,103 +72,132 @@ I enjoy building practical software applications, developing data-driven solutio
 
 - Developing AI-powered recruitment solutions involving resume parsing and structured data processing.
 - Working on skill extraction and intelligent candidate-job matching using Python.
-- Exploring data processing workflows for recruitment automation.
-
-### CRM Consultant | Delemon Technology
-**Dubai**
-
-- Supporting CRM operations and lead management workflows using HubSpot CRM.
-- Working with lead data, follow-up processes and CRM data quality.
-- Gaining exposure to API integration, webhooks and middleware concepts.
+- Contributing to AI data pipeline and recruitment automation workflows.
 
 ### Software Developer Intern | Zidio Development
 **May 2026 – August 2026 | Remote**
 
-- Contributed to the frontend development of IntelliMeet, an AI-powered meeting and collaboration platform.
-- Developed responsive user interfaces using React, TypeScript and Vite.
-- Worked on authentication, live analytics and team management interfaces.
+- Contributed to IntelliMeet, an AI-powered meeting and collaboration platform.
+- Developed responsive frontend components using React, TypeScript and Vite.
+- Worked on authentication, analytics and team management interfaces.
 
 ### Software Developer Intern | Acrobite
 **January 2026 – May 2026 | Calicut, Kerala**
 
-- Developed and customized Magento 2 eCommerce modules and frontend features.
+- Developed and customized Magento 2 eCommerce modules and frontend components.
 - Worked with PHP, HTML, CSS and JavaScript.
-- Performed debugging and testing to improve application functionality.
+- Performed debugging and testing to improve website functionality.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 1. InkWell – Blog Management System
-A full-stack blog management application designed to provide an organized content publishing experience.
+🔗 [View Repository](https://github.com/Fathimathuzahra/InkWell-Blog-Management-System)
 
-**Key Features**
-- User authentication and authorization.
-- Blog creation, editing and management.
-- Comments and ownership-based permissions.
-- REST API integration and input validation.
+A full-stack blog management application with authentication, content publishing and ownership-based permissions.
 
 **Technologies:** React, Python, Django REST Framework, MySQL.
 
-### 2. IntelliMeet – AI-Powered Meeting Platform
-A collaborative meeting platform focused on virtual communication and team productivity.
+### 2. ZecPath – AI-Powered Recruitment System
+🔗 [View Repository](https://github.com/Fathimathuzahra/ZecPath-AI-System)
 
-**Key Features**
-- Responsive meeting interfaces.
-- User authentication.
-- Live analytics dashboard.
-- Team management interfaces.
+An AI-powered recruitment platform focused on automating hiring workflows and improving candidate evaluation.
+
+**Key Areas:** Resume Parsing, Skill Extraction, Candidate Matching, AI Data Pipelines.
+
+**Technologies:** Python, AI, Data Processing, Machine Learning.
+
+### 3. IntelliMeet – AI-Powered Meeting Platform
+🔗 [View Repository](https://github.com/Fathimathuzahra/Zidio_Intellmeet)
+
+A meeting and collaboration platform designed to support virtual communication and team productivity.
 
 **Technologies:** React, TypeScript, Vite, JavaScript.
 
-### 3. Cafeteria – College Canteen Token Ordering System
-A Django-based web application developed to simplify college canteen ordering and token management.
+### 4. Cafeteria – College Canteen Token Ordering System
+🔗 [View Repository](https://github.com/Fathimathuzahra/Cafeteria)
 
-**Key Features**
-- Online food ordering.
-- Digital token management.
-- Order tracking.
-- Role-based access for Admin, Staff and Students.
+A Django-based application that simplifies food ordering, token generation and canteen management.
 
 **Technologies:** Python, Django, MySQL, HTML, CSS.
 
-### 4. FIRST CLASS – Travel Agency Management System
-A Magento 2-based travel agency platform designed to manage travel packages, bookings and customer enquiries.
+### 5. FBI Crime Forecasting
+🔗 [View Repository](https://github.com/Fathimathuzahra/FBI-Crime-Forecasting)
 
-**Key Features**
-- Travel package management.
-- Booking and enquiry workflows.
-- Customer management.
-- Centralized administration panel.
+A time-series forecasting project that analyses historical crime patterns and predicts future trends using ARIMA.
 
-**Technologies:** PHP, Magento 2, MySQL, HTML, CSS, JavaScript.
+**Technologies:** Python, Pandas, Matplotlib, ARIMA, Data Science.
 
-### 5. FBI Crime Forecasting System
-A data science project focused on analysing historical crime patterns and forecasting future trends.
+### 6. Integrated Retail Analytics for Store Optimization
+🔗 [View Repository](https://github.com/Fathimathuzahra/Integrated-Retail-Analytics-for-Store-Optimization)
 
-**Key Features**
-- Exploratory data analysis.
-- Time-series forecasting using ARIMA and SARIMA.
-- Crime trend analysis.
-- Predictive data visualization.
+A data analytics and machine learning project focused on retail performance, customer insights and store optimization.
 
-**Technologies:** Python, Pandas, Matplotlib, Scikit-learn.
+**Technologies:** Python, Jupyter Notebook, Data Analytics, Machine Learning.
+
+### 7. OpsMind AI
+🔗 [View Repository](https://github.com/Fathimathuzahra/opsmind-ai)
+
+An AI-focused development project exploring intelligent application workflows.
+
+**Technologies:** JavaScript.
+
+### 8. Personal Portfolio
+🔗 [View Repository](https://github.com/Fathimathuzahra/Personal-Portfolio)  
+🌐 [Live Portfolio](https://fathimathuzahra.vercel.app/)
+
+My personal portfolio showcasing my technical skills, professional experience and development projects.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+---
+
+## 💻 Other Development Projects
+
+| Project | Description | Repository |
+|---|---|---|
+| TaskManagerApp | Task management application | [View](https://github.com/Fathimathuzahra/TaskManagerApp) |
+| PRODIGY_SD_01 | Internship development task | [View](https://github.com/Fathimathuzahra/PRODIGY_SD_01) |
+| PRODIGY_SD_02 | Internship development task | [View](https://github.com/Fathimathuzahra/PRODIGY_SD_02) |
+| PRODIGY_SD_03 | Internship development task | [View](https://github.com/Fathimathuzahra/PRODIGY_SD_03) |
+| PRODIGY_SD_05 | Internship development task | [View](https://github.com/Fathimathuzahra/PRODIGY_SD_05) |
+| ZIDIO_WEB-DEVELOPMENT-INTERNSHIP | Web development internship work | [View](https://github.com/Fathimathuzahra/ZIDIO_WEB-DEVELOPMENT-INTERNSHIP) |
+| Task | PHP development project | [View](https://github.com/Fathimathuzahra/Task) |
+| codealpha_tasks | Python development tasks | [View](https://github.com/Fathimathuzahra/codealpha_tasks) |
+| todo-list | JavaScript To-Do application | [View](https://github.com/Fathimathuzahra/todo-list) |
+| silly-story-generator | Random story generator | [View](https://github.com/Fathimathuzahra/silly-story-generator) |
+
+---
+
+## 📚 Data Science & Learning Repositories
+
+| Repository | Description |
+|---|---|
+| [Data-science](https://github.com/Fathimathuzahra/Data-science) | Data science, ML and visualization experiments |
+| [certifications](https://github.com/Fathimathuzahra/certifications) | Certifications and learning achievements |
+| [Academy_MINI_PROJECT](https://github.com/Fathimathuzahra/Academy_MINI_PROJECT) | Django college canteen mini project |
+| [Mobile-Application-and-Development-](https://github.com/Fathimathuzahra/Mobile-Application-and-Development-) | Mobile application development practice |
+| [java](https://github.com/Fathimathuzahra/java) | Core Java programs and exercises |
+| [ads-lab-programs](https://github.com/Fathimathuzahra/ads-lab-programs) | Advanced data structures and algorithms |
+| [biography_page](https://github.com/Fathimathuzahra/biography_page) | HTML and CSS webpage practice |
+| [marking-up-a-letter](https://github.com/Fathimathuzahra/marking-up-a-letter) | HTML semantic markup practice |
+| [skills-communicate-using-markdown](https://github.com/Fathimathuzahra/skills-communicate-using-markdown) | GitHub Markdown learning |
+| [Github-Enablment-Task](https://github.com/Fathimathuzahra/Github-Enablment-Task) | GitHub learning and enablement task |
+| [Launchpad-2025](https://github.com/Fathimathuzahra/Launchpad-2025) | μLearn Launchpad participation |
 
 ---
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
-A.P.J. Abdul Kalam Technological University  
-2024 – 2026 | GPA: 7.8
+A.P.J. Abdul Kalam Technological University | 2024–2026
 
 **Bachelor of Science in Mathematics**  
-Kannur University  
-2021 – 2024 | GPA: 8.01
+Kannur University | 2021–2024
 
 **Higher Secondary Education**  
-Kerala State Board | 2019 – 2021  
-Percentage: 93.33%
+Kerala State Board | 2019–2021
 
 ---
 
@@ -193,7 +211,7 @@ Percentage: 93.33%
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fathimathuzahra&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -210,22 +228,20 @@ Percentage: 93.33%
 
 ---
 
-## 🌱 Currently Focused On
+## 🌱 Currently Exploring
 
-- Building practical AI-powered applications.
-- Improving Python and backend development skills.
-- Exploring machine learning and data science workflows.
-- Developing scalable web applications and REST APIs.
-- Learning and experimenting with emerging technologies.
+- AI-powered applications and intelligent automation.
+- Machine Learning and predictive analytics.
+- Python backend development and REST APIs.
+- Full-stack application development.
+- Data processing and AI recruitment solutions.
 
 ---
 
 <p align="center">
 <b>Thanks for visiting my GitHub profile!</b>
 <br/>
-Let's connect, collaborate and build something meaningful together. 🚀
-</p>
-
-<p align="center">
+Let's connect, collaborate and build something meaningful. 🚀
+<br/><br/>
 <i>Build. Learn. Improve. Repeat.</i>
 </p>
